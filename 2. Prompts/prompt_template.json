@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length",
+        "name",
+        "style"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Tell a joke about, {name}, in a {style} style which must be in the {length} words",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
